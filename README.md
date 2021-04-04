@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rutiglianom
+- 👀 I’m interested in Embedded systems and other low-level programming work / Computer Engineering.
+- 🌱 I’m currently learning Object-Oriented design in my final year studying Computer Engineering at Seattle University.
+- 📫 How to reach me: rutigli1@seattleu.edu
